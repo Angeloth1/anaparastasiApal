@@ -1,0 +1,8 @@
+Text Analysis Report
+
+Number of sentences: 22
+Number of words: 22
+
+Word Frequency:
+[('the', 36), ('.', 22), ('to', 19), (',', 16), ('[', 16), (']', 16), ('a', 12), ('of', 11), ('Parents', 11), ('lot', 9)]
+

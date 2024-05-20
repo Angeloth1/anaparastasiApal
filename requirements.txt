@@ -1,0 +1,4 @@
+nltk
+termcolor
+matplotlib
+seaborn
